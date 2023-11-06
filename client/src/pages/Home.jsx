@@ -13,7 +13,13 @@ import {
 const Home = () => {
     const snap = useSnapshot(state)
     return (
-        <div>Home</div>
+       <AnimatePresence>
+
+
+
+
+        
+       </AnimatePresence>
     )
 }
 
